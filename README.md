@@ -1,6 +1,6 @@
 # flutter_tiktok_ui
 
-A new Flutter project.
+A new Flutter project to replicate the tiktok ui.
 
 ## Getting Started
 
